@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Tally</string>
+    <string name="editone">Create</string>
+    <string name="month_out">This Month Spending</string>
+    <string name="month_in">This Month Income</string>
+    <string name="out">Spending</string>
+    <string name="in">Income</string>
+    <string name="budget">Budget Left</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="check_excel">Check Analysis Report</string>
+    <string name="add_des">Add Note</string>
+    <string name="hint_des">Write your note here</string>
+    <string name="ensure">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="history">History</string>
+    <string name="account">Account</string>
+    <string name="please_input_time">Please enter the time here (24-hour)</string>
+    <string name="please_search_info">Please enter the content</string>
+    <string name="date_empty">Sorry, No Record Found</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_appinfo">Application Info</string>
+    <string name="about_version">Version</string>
+    <string name="about_1">1.0</string>
+    <string name="about_app">About Application</string>
+    <string name="about_intro">Application is used for taking notes of daily expenditure and calculate monthly financial status.</string>
+    <string name="about_developer">Developer</string>
+    <string name="about_me">About me</string>
+    <string name="about_loc">Boston, MA</string>
+    <string name="about_email">Send Email</string>
+    <string name="about_email_detail">laresx2021@gmail.com</string>
+
+    <string name="history_info">Current Month Bill</string>
+    <string name="clear_all">Clear All Records</string>
+
+    <string name="chart_info">Bill Details</string>
+    <string name="no_data">No Data Available</string>
+
+
+</resources>
